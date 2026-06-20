@@ -27484,7 +27484,6 @@ account-prepaidlimit.com
 account-private.com
 account-profile-users.info
 account-profile.servepics.com
-account-re.store
 account-recover.com
 account-recovering.com
 account-recovery-team.com
@@ -45083,6 +45082,7 @@ anadolujets.com
 anadolujetstr.com
 anadolukampanya.com
 anadolukart.com
+anadolukesiti.com
 anadolukilim.org
 anadolukolaygiris.top
 anadolukultur.net
@@ -45532,7 +45532,6 @@ androidveriguncelleme.com
 androidveriservisiguncelleme4356.xyz
 androidyeniguncelleme.com
 androidzorunluguncelleme.com
-androixd.beget.tech
 androkali.ddns.net
 andromdsqv.com
 andromedacentro.ddns.net
@@ -47594,7 +47593,6 @@ apple-account.support
 apple-acounts-locked.com
 apple-activity-acces.com
 apple-analyser.com
-apple-aofer.top
 apple-apple-id-problem.com
 apple-appleid.hopto.org
 apple-appleid.zapto.org
@@ -88434,6 +88432,7 @@ buhayatbenicokyordu3.click
 buhayatbenicokyordu5.click
 buhayatbenicokyordu6.click
 buhayatbenicokyordu8.click
+buhayatbenicokyordu9.click
 buhdayuno.site
 buhfasffas.vercel.app
 buhfjcv.com
@@ -98177,7 +98176,6 @@ ch18s4.zapto.org
 ch1gls0ncd1ael.com
 ch1ixg4.duckdns.org
 ch1now1ll4ms.xyz
-ch1pr0.gdn
 ch214154-a45.click
 ch214154-asd.digital
 ch214154-asd.net
@@ -103251,7 +103249,6 @@ com-aaacct.top
 com-aaaccv.cc
 com-aaaccz.cc
 com-acbn.top
-com-accept-security.info
 com-access-account.limited
 com-account-challenge.email
 com-account-closed.com
@@ -146221,6 +146218,7 @@ emaliyeizleme.org
 emaliyemerkezi.org
 emaliyeportal.org
 emaliyesorgulama.org
+emaliyeteblig.org
 emaliyetebligat.org
 emaliyevatandas.com
 emalk.b-cdn.net
@@ -155611,7 +155609,6 @@ express-bayiii5.xyz
 express-bayiii6.xyz
 express-bayiii7.xyz
 express-delivery-note.vercel.app
-express-odeme.com
 express-onlinevezne.com
 express-sales.click
 express-step.tempurl.host
@@ -159502,6 +159499,7 @@ festive-shamir.104-40-57-127.plesk.page
 festive-shirley.91-238-163-161.plesk.page
 fet0r34i.xyz
 fet4125.duckdns.org
+fetch-tumpy-side.myonlineportal.ch
 fetch5897.xyz
 fetchimpetus.top
 fete.suitabledownloader.com
@@ -195129,6 +195127,7 @@ hazinemali.cf
 hazinemali.org
 hazinemaliye.net
 hazinemaliye.org
+hazinemaliyebirimi.org
 hazinemaliyeceza.org
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
@@ -221983,6 +221982,7 @@ instaspy.hopto.org
 instatakip.net
 instatakipcimiz.com
 instatakipmerkezi.site
+instatraksf.nicepage.io
 instatv.shop
 instavevo.com
 instavip.org
@@ -228706,6 +228706,8 @@ istanbulpropertyfund.com
 istanbulqxac.net
 istanbulr.ml
 istanbulrandevvuu.xyz
+istanbulrandevvuucan.xyz
+istanbulrandevvuucanaa.xyz
 istanbulrmzntoplu.shop
 istanbulrskart.net
 istanbuls.ml
@@ -246297,6 +246299,7 @@ kemiyegol.xyz
 kemmkd.com
 kemoelsayed7.no-ip.biz
 kemoge.net
+kemopscularburda.xyz
 kemrion.site
 kemrionapp.store
 kemrionhq.site
@@ -251883,7 +251886,6 @@ kolaygecis.sg-host.site
 kolaygelsinkargotakip.com
 kolaygiris321.tk
 kolayhasrasar.net
-kolayhgsyukle.com
 kolayhizlipaket.net
 kolayhizliserimhrs.site
 kolayhizmet.b-cdn.net
@@ -259680,7 +259682,6 @@ lifetime-free-blue-page-f.surge.sh
 lifetimepaymentcenter.com
 lifetrium.online
 lifety.store
-lifeupdate.design
 lifewle843hf34h348iifiiiillliiililll.blogspot.com
 lifhtansixndisdmrlisdmmrldnrlm.com.tr
 lifhtansixndisdmrlisdmmrldnrlm.online
@@ -260698,6 +260699,7 @@ lix1i0.duckdns.org
 lixan.sbs
 lixar.top
 lixavomiranta.shop
+lixdepo.gifts
 lixev.cyou
 lixland.net
 lixmartu.gifts
@@ -261767,8 +261769,6 @@ login-sule.site
 login-teb.com
 login-telekom.online
 login-th.shop
-login-toverify-youraccount.info
-login-toverify-youraccountid.info
 login-turkiyegovtr.org
 login-users-account.site
 login-verify-i.cloud
@@ -269490,6 +269490,7 @@ mavromisgppc.click
 mavsbdaaas.tk
 mavsmmmsd.tk
 mavspmiesp.duckdns.org
+mavstoreq.com
 mavviia.com
 mavvrik.tr
 mavvssmmmgz.tk
@@ -273760,7 +273761,6 @@ migros-sanalmarketi.vercel.app
 migros-sanalmarketim.vercel.app
 migros-sanalmarketin.vercel.app
 migros-stanley.hasmwasd.click
-migros-tr.club
 migros.cc
 migros.ekstra.pro
 migros.ekstra.site
@@ -283775,7 +283775,6 @@ myaccount-documents.ddns.net
 myaccount-googie.com
 myaccount-google-com.cf
 myaccount-hbspot.com
-myaccount-rejectedpayment.center
 myaccount.aol.wallat-billing.com.nz-nz2020.tk
 myaccount.cgmail.pe.hu
 myaccount.google-signin.ga
@@ -301825,7 +301824,6 @@ onlinetlyuklemebimcell.co.vu
 onlinetlyuklemehizmeti-bim.com
 onlinetlyuklemem.ga
 onlinetlyuklemem.tk
-onlinetlyuklemeyap.com
 onlinetlyuklex.com
 onlinetlyukleyicim.com
 onlinetokenid.com
@@ -315926,6 +315924,7 @@ pixelka.fun
 pixelkeep.cyou
 pixelkidhacks.hopto.org
 pixella.shop
+pixelline.digital
 pixelmarrow.com
 pixelmator.pics
 pixelmator.us
@@ -319873,6 +319872,7 @@ primefirsatlari.com
 primefirsatlarim.net
 primefocusline.com
 primeforaspzr.shop
+primefrontier.info
 primehdplayer.com
 primeheadline.sbs
 primehizmetistanbvl34.net
@@ -325407,7 +325407,6 @@ ptthgskullanicigiris-tr.tk
 ptthgsmusterigovtr.com
 ptthgsmusteriigovtr.com
 ptthgsodebrc.com
-ptthgsodeme.com
 ptthgsodemegovtr-net.blogspot.com
 ptthgsodemegovtrnet.blogspot.com
 ptthgsonline.net
@@ -335882,7 +335881,6 @@ reservedindulge.top
 reservedprototype.top
 reserveduprising.top
 reservepetitioner.top
-reserver-appleid.info
 reserverem.duckdns.org
 reservet-id439182.world
 reservetion-id41958.world
@@ -336206,7 +336204,6 @@ resolveconceit.top
 resolvedaccount.ddns.net
 resolvefeas.top
 resolvehose.top
-resolveissue-i.cloud
 resolvemodern.online
 resolveprogress.online
 resolveprogressive.online
@@ -349812,7 +349809,6 @@ secure-mx-server.cc
 secure-mx-service.cc
 secure-my-robinhood-ac.webflow.io
 secure-myaccount.hopto.org
-secure-myaccount.online
 secure-mykoinn.webflow.io
 secure-name.shop
 secure-net.site
@@ -350818,7 +350814,6 @@ secureupdate.ddns.net
 secureupdate663454paypal.duckdns.org
 secureupdateamazonapps.dynnamn.ru
 secureupdateamzs.hopto.org
-secureupdateid.info
 secureurl.shop
 secureusaa01.ddns.net
 secureuser62.ddns.net
@@ -352237,6 +352232,7 @@ sender-net-websuites-mails.com
 sender-secure-response-mail.management
 sender.gb.net
 senderbaba.duckdns.org
+senderdimiduydunmu.sbs
 sendergel.com
 senderodedios.duckdns.org
 sendeselamlardasin.net
@@ -356629,7 +356625,6 @@ sign-amazonverifyupdtrrosp1p.duckdns.org
 sign-d2f61a.webflow.io
 sign-in-bitexen.com
 sign-in-homeondatabasei543.duckdns.org
-sign-in-myaccount.info
 sign-in-option.webflow.io
 sign-in-verification-amazon.com
 sign-in01.ddns.net
@@ -361313,6 +361308,7 @@ skoroviboriunas.info
 skort123123.ddns.net
 skoru-o-belirler.sbs
 skososko.duckdns.org
+skotanlanto.lat
 skouz.ddns.net
 skovia.com
 skozaibasp.xyz
@@ -364132,6 +364128,7 @@ solvio.cfd
 solvixo.xyz
 solvoro.xyz
 solwanrozahy.com
+solxo.xyz
 solyukleme.22web.org
 som2020.zapto.org
 soma1q-46620.portmap.io
@@ -365062,6 +365059,7 @@ sonkazzandiraanfirsatlarrr.xyz
 sonkerefrsatlar.cfd
 sonkezbrayaynlyrzsznrd.club
 sonkezbrdavardkszs.shop
+sonkezcalbenimicin.sbs
 sonkezcumafrst.shop
 sonkezgel.com.tr
 sonkezguncellemehaha.duckdns.org
@@ -395752,6 +395750,7 @@ trujanel.gruposenhordobonfim.net
 truktuvrndvu.blogspot.com
 truktuvrndvu.com
 trulyfraudulent.top
+trumoretasarla.com
 trump.ddns.net
 trumpertonster.icu
 trumpetdevastation.top
@@ -403640,7 +403639,6 @@ unlock-service.accounts.service-verification.site
 unlockcard.zapto.org
 unlocked-account-acces-com.gq
 unlocked-account-appleid.cf
-unlocked-appleid.info
 unlockicloud.ddns.net
 unlockinfo.hopto.org
 unlocking.zapto.org
@@ -421634,6 +421632,7 @@ wellfocus-proneckle.site
 wellgreach.lat
 wellinto.net
 wellister.zapto.org
+wellivo.gifts
 welllbeingplace.com
 welllnesscircle.com
 wellnessairr.com
@@ -435095,7 +435094,6 @@ xn--hgs-derex-37a.net
 xn--hgs-ogglenyklemmesi-gbc.com
 xn--hgs-onlne-yukle-ogs-m5c.com
 xn--hgs-ykle-b6a.net
-xn--hgs-ykleme-eeb.com
 xn--hgs-yukle-hizli-gvenillir-vwc.com
 xn--hgsbakiyedolumlar-svc.com
 xn--hgsbakiyeykle-5ob.com
@@ -449210,6 +449208,7 @@ yuzunuzu-gulduren-teklif-geldi-buraya-surekli-olarak-burada.com
 yuzunuzu-gulduren-teklif-geldi-buraya.com.tr
 yuzunuzu-gulduren-teklifler-surekli-burada.com
 yuzunuzu-gulduten-bu-furds.pitikarggarr.shop
+yuzverdimyaralarimaabandi.sbs
 yuzyilarcaziraat.com
 yuzyildabirfirsatlar.cfd
 yuzyildabirfirsatlar.icu
@@ -454346,6 +454345,7 @@ zt2tyyn.duckdns.org
 zt76vs.duckdns.org
 zt7zpqv.duckdns.org
 ztakrim.cfd
+ztarty.cfd
 ztb-news.com
 ztbestonline.xyz
 ztbimnoscc.duckdns.org
